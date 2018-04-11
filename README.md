@@ -10,8 +10,8 @@ The [Eagle](https://www.autodesk.com/products/eagle/overview) design files can b
 |------------------|-------------------------------|--------------------------|
 | J1               | 5V 5A DC Barrel Jack          | Cliff DC10A / DC10L      |
 | J2               | 3.5mm pitch terminal block    | CamdenBoss CTBP3051/3    |
-| R1               | 150Ω Resistor (0805 package)  |                          |
-| C1               | 3300µF Capacitor (16mm pitch) |                          |
+| R1               | 150Ω Resistor                 | 0805 SMD package         |
+| C1               | 3300µF Electrolytic Capacitor | 7.5mm lead pitch         |
 | U$1              | Adafruit Huzzah Breakout      | Adafruit product ID 2471 |
 
 I recommend you use 2x10 female pin headers with 2.54mm pitch to allow you to remove the [Adafruit Huzzah](https://www.adafruit.com/product/2471) without de-soldering.  Additionally, you may use 4x M2.5 screws to mount the PCB.
