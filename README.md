@@ -18,11 +18,11 @@ I recommend you use 2x10 female pin headers with 2.54mm pitch to allow you to re
 
 ## Schematic
 
-![Schematic](https://raw.githubusercontent.com/squarefrog/led-controller/documents/schematic.png)
+![Schematic](documents/schematic.png)
 
 ## Layout
 
-![Layout](https://raw.githubusercontent.com/squarefrog/led-controller/documents/board.png)
+![Layout](documents/board.png)
 
 ## Gerbers
 
